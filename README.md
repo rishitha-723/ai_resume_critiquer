@@ -1,0 +1,1 @@
+A web application built with Streamlit that allows users to upload a PDF or text resume. The app uses a locally running Ollama LLM to analyze the document and provide constructive feedback tailored to a specific job role.
